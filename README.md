@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gycelal</h1>
 <h3 align="center">A Self-taught Full Stack Developer specializing in Python and Django.</h3>
 
-- 🔭 I’m currently working on **I’m currently working on HireSphere, a job portal focused on streamlining the hiring process for employers.**
+- 🔭 **I’m currently working on HireSphere, a job portal focused on streamlining the hiring process for employers.**
 
 - 🌱 I’m currently learning **FastAPI**
 
